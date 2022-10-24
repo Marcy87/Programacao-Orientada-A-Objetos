@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.exe
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.deps.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\bin\Debug\net6.0\ExercicioProduto.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\refint\ExercicioProduto.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ExercicioProduto.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExercicioProduto\ExercicioProduto\obj\Debug\net6.0\ref\ExercicioProduto.dll
