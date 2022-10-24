@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\bin\Debug\net6.0\ExerConvDeMoeda.exe
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\bin\Debug\net6.0\ExerConvDeMoeda.deps.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\bin\Debug\net6.0\ExerConvDeMoeda.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\bin\Debug\net6.0\ExerConvDeMoeda.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\bin\Debug\net6.0\ExerConvDeMoeda.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\obj\Debug\net6.0\ExerConvDeMoeda.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\obj\Debug\net6.0\ExerConvDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\obj\Debug\net6.0\ExerConvDeMoeda.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\obj\Debug\net6.0\ExerConvDeMoeda.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\obj\Debug\net6.0\ExerConvDeMoeda.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\obj\Debug\net6.0\ExerConvDeMoeda.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\obj\Debug\net6.0\refint\ExerConvDeMoeda.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\obj\Debug\net6.0\ExerConvDeMoeda.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\obj\Debug\net6.0\ExerConvDeMoeda.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerConvDeMoeda\ExerConvDeMoeda\obj\Debug\net6.0\ref\ExerConvDeMoeda.dll
