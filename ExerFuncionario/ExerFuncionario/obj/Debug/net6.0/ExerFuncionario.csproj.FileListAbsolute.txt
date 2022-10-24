@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\bin\Debug\net6.0\ExerFuncionario.exe
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\bin\Debug\net6.0\ExerFuncionario.deps.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\bin\Debug\net6.0\ExerFuncionario.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\bin\Debug\net6.0\ExerFuncionario.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\bin\Debug\net6.0\ExerFuncionario.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\obj\Debug\net6.0\ExerFuncionario.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\obj\Debug\net6.0\ExerFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\obj\Debug\net6.0\ExerFuncionario.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\obj\Debug\net6.0\ExerFuncionario.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\obj\Debug\net6.0\ExerFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\obj\Debug\net6.0\ExerFuncionario.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\obj\Debug\net6.0\refint\ExerFuncionario.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\obj\Debug\net6.0\ExerFuncionario.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\obj\Debug\net6.0\ExerFuncionario.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 4 - Classes, atributos, métodos, membros estáticos\Programas\ExerFuncionario\ExerFuncionario\obj\Debug\net6.0\ref\ExerFuncionario.dll
