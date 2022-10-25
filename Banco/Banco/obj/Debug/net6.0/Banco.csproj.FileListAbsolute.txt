@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\bin\Debug\net6.0\Banco.exe
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\bin\Debug\net6.0\Banco.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\bin\Debug\net6.0\Banco.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\obj\Debug\net6.0\Banco.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\obj\Debug\net6.0\refint\Banco.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\obj\Debug\net6.0\Banco.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\Banco\Banco\obj\Debug\net6.0\ref\Banco.dll
