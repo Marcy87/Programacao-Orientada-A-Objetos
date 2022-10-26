@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\bin\Debug\net6.0\QuartosAlugar.exe
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\bin\Debug\net6.0\QuartosAlugar.deps.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\bin\Debug\net6.0\QuartosAlugar.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\bin\Debug\net6.0\QuartosAlugar.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\bin\Debug\net6.0\QuartosAlugar.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\obj\Debug\net6.0\QuartosAlugar.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\obj\Debug\net6.0\QuartosAlugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\obj\Debug\net6.0\QuartosAlugar.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\obj\Debug\net6.0\QuartosAlugar.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\obj\Debug\net6.0\QuartosAlugar.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\obj\Debug\net6.0\QuartosAlugar.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\obj\Debug\net6.0\refint\QuartosAlugar.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\obj\Debug\net6.0\QuartosAlugar.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\obj\Debug\net6.0\QuartosAlugar.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 5 - Construtores, palavra this, sobrecarga, encapsulamento\Programas\QuartosAlugar\QuartosAlugar\obj\Debug\net6.0\ref\QuartosAlugar.dll
