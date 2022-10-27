@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\bin\Debug\net6.0\Employee.exe
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\bin\Debug\net6.0\Employee.deps.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\bin\Debug\net6.0\Employee.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\bin\Debug\net6.0\Employee.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\obj\Debug\net6.0\Employee.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\obj\Debug\net6.0\refint\Employee.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\obj\Debug\net6.0\Employee.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 6 - Comportamento de memória, arrays, listas\Programas\Employee\Employee\obj\Debug\net6.0\ref\Employee.dll
