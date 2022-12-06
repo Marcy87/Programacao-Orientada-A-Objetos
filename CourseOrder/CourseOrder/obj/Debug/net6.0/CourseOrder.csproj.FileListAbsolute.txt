@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\bin\Debug\net6.0\CourseOrder.exe
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\bin\Debug\net6.0\CourseOrder.deps.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\bin\Debug\net6.0\CourseOrder.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\bin\Debug\net6.0\CourseOrder.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\bin\Debug\net6.0\CourseOrder.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\obj\Debug\net6.0\CourseOrder.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\obj\Debug\net6.0\CourseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\obj\Debug\net6.0\CourseOrder.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\obj\Debug\net6.0\CourseOrder.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\obj\Debug\net6.0\CourseOrder.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\obj\Debug\net6.0\CourseOrder.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\obj\Debug\net6.0\refint\CourseOrder.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\obj\Debug\net6.0\CourseOrder.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\obj\Debug\net6.0\CourseOrder.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 9 - Enumerações e composição\Program\CourseOrder\CourseOrder\obj\Debug\net6.0\ref\CourseOrder.dll
