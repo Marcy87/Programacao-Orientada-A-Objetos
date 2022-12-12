@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\bin\Debug\net6.0\CourseProduct.exe
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\bin\Debug\net6.0\CourseProduct.deps.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\bin\Debug\net6.0\CourseProduct.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\bin\Debug\net6.0\CourseProduct.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\bin\Debug\net6.0\CourseProduct.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\obj\Debug\net6.0\CourseProduct.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\obj\Debug\net6.0\CourseProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\obj\Debug\net6.0\CourseProduct.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\obj\Debug\net6.0\CourseProduct.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\obj\Debug\net6.0\CourseProduct.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\obj\Debug\net6.0\CourseProduct.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\obj\Debug\net6.0\refint\CourseProduct.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\obj\Debug\net6.0\CourseProduct.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\obj\Debug\net6.0\CourseProduct.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 10 - Herança e polimorfismo\Program\CourseProduct\CourseProduct\obj\Debug\net6.0\ref\CourseProduct.dll
