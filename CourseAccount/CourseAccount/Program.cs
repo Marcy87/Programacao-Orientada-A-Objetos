@@ -1,5 +1,6 @@
-﻿using System;
-using CourseAccount.Entities;
+﻿using CourseAccount.Entities;
+using CourseAccount.Entities.Exceptions;
+using System.Globalization;
 
 namespace CourseAccount
 {
@@ -7,9 +8,36 @@ namespace CourseAccount
     {
         static void Main(string[] args)
         {
-            BusinessAccount account = new BusinessAccount(8010, "Bob Browm", 100.0, 500.0);
+            Console.WriteLine("Enter account data");
 
-            Console.WriteLine(account.Balance);
+            Console.Write("Number: ");
+            int number = int.Parse(Console.ReadLine());
+
+            Console.Write("Holder: ");
+            string holder = Console.ReadLine();
+
+            Console.Write("Initial Balance: ");
+            double balance = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.Write("Withdraw limit: ");
+            double withdraw = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Account account = new Account(number, holder, balance, withdraw);
+
+            Console.WriteLine();
+            Console.Write("Enter amount for withdraw: ");
+            double amount = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+
+            try
+            {
+                account.Withdraw(amount);
+                Console.WriteLine("New balance: " + account.Balance.ToString("F2", CultureInfo.InvariantCulture));
+            }
+            catch (DomainException e)
+            {
+                Console.WriteLine("Withdraw error: " + e.Message);
+            }
         }
     }
 }

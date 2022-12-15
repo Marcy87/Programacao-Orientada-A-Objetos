@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marce\\OneDrive\\Desktop\\C# COMPLETO\\Seção 10 - Herança e polimorfismo\\Program\\CourseAccount\\CourseAccount\\CourseAccount.csproj": {}
+    "C:\\Users\\marce\\OneDrive\\Desktop\\C# COMPLETO\\Seção 11 - Tratamento de exceções\\Program\\CourseAccount\\CourseAccount\\CourseAccount.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marce\\OneDrive\\Desktop\\C# COMPLETO\\Seção 10 - Herança e polimorfismo\\Program\\CourseAccount\\CourseAccount\\CourseAccount.csproj": {
+    "C:\\Users\\marce\\OneDrive\\Desktop\\C# COMPLETO\\Seção 11 - Tratamento de exceções\\Program\\CourseAccount\\CourseAccount\\CourseAccount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Desktop\\C# COMPLETO\\Seção 10 - Herança e polimorfismo\\Program\\CourseAccount\\CourseAccount\\CourseAccount.csproj",
+        "projectUniqueName": "C:\\Users\\marce\\OneDrive\\Desktop\\C# COMPLETO\\Seção 11 - Tratamento de exceções\\Program\\CourseAccount\\CourseAccount\\CourseAccount.csproj",
         "projectName": "CourseAccount",
-        "projectPath": "C:\\Users\\marce\\OneDrive\\Desktop\\C# COMPLETO\\Seção 10 - Herança e polimorfismo\\Program\\CourseAccount\\CourseAccount\\CourseAccount.csproj",
+        "projectPath": "C:\\Users\\marce\\OneDrive\\Desktop\\C# COMPLETO\\Seção 11 - Tratamento de exceções\\Program\\CourseAccount\\CourseAccount\\CourseAccount.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marce\\OneDrive\\Desktop\\C# COMPLETO\\Seção 10 - Herança e polimorfismo\\Program\\CourseAccount\\CourseAccount\\obj\\",
+        "outputPath": "C:\\Users\\marce\\OneDrive\\Desktop\\C# COMPLETO\\Seção 11 - Tratamento de exceções\\Program\\CourseAccount\\CourseAccount\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
