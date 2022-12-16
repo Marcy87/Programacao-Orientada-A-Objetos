@@ -1,0 +1,15 @@
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\bin\Debug\net6.0\CourseContract.exe
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\bin\Debug\net6.0\CourseContract.deps.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\bin\Debug\net6.0\CourseContract.runtimeconfig.json
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\bin\Debug\net6.0\CourseContract.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\bin\Debug\net6.0\CourseContract.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\obj\Debug\net6.0\CourseContract.csproj.AssemblyReference.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\obj\Debug\net6.0\CourseContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\obj\Debug\net6.0\CourseContract.AssemblyInfoInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\obj\Debug\net6.0\CourseContract.AssemblyInfo.cs
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\obj\Debug\net6.0\CourseContract.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\obj\Debug\net6.0\CourseContract.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\obj\Debug\net6.0\refint\CourseContract.dll
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\obj\Debug\net6.0\CourseContract.pdb
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\obj\Debug\net6.0\CourseContract.genruntimeconfig.cache
+C:\Users\marce\OneDrive\Desktop\C# COMPLETO\Seção 14 - Interfaces\Program\CourseContract\CourseContract\obj\Debug\net6.0\ref\CourseContract.dll
